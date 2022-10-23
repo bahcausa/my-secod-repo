@@ -1,1 +1,1 @@
-# my-secod-repo
+# my-second-repo
